@@ -36,7 +36,8 @@ venv\Scripts\activate
 # On macOS/Linux
 source venv/bin/activate
 
-Install Dependencies:
+
+**Install Dependencies:**
 pip install -r requirements.txt
 
 Open Jupyter Notebook or any preferred IDE and execute the scripts provided for data analysis and modeling.
